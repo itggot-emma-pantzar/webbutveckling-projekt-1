@@ -10,24 +10,19 @@ body{
     display: grid;
     grid-template-columns: auto 50% auto;
     grid-template-rows: 125px auto 50px;
-    
 }
 
 header{
     background-color: aqua;
     grid-column: span 3;
-
 }
 
 main{
     background-color: blueviolet;
     grid-column: span 1;
-
-
 }
 
 footer{
     background-color: black;
     grid-column: span 3;
-
 }
