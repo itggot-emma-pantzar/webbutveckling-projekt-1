@@ -74,3 +74,62 @@ footer{
 p{
     margin:0;
 }
+
+.one{
+    margin:4%;
+    height: 200px;
+    width: 200px;
+    background:url();
+    position: relative;
+    min-height: 150px;
+    border-radius: 30%;
+}
+
+.two{
+    margin:4%;
+    height: 200px;
+    width: 200px;
+    background:url();
+    position: relative;
+    min-height: 150px;
+    border-radius: 30%;
+}
+
+.tree{
+    margin:4%;
+    height: 200px;
+    width: 200px;
+    background:url();
+    position: relative;
+    min-height: 150px;
+    border-radius: 30%;
+}
+
+.four{
+    margin:4%;
+    height: 200px;
+    width: 200px;
+    background:url();
+    position: relative;
+    min-height: 150px;
+    border-radius: 30%;
+}
+
+.five{
+    margin:4%;
+    height: 200px;
+    width: 200px;
+    background:url();
+    position: relative;
+    min-height: 150px;
+    border-radius: 30%;
+}
+.six{
+    margin:4%;
+    height: 200px;
+    width: 200px;
+    background:url();
+    position: relative;
+    min-height: 150px;
+    border-radius: 30%;
+}
