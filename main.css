@@ -81,9 +81,9 @@ p{
     margin:4%;
     height: 200px;
     width: 200px;
-    background:url(../webbutveckling-projekt-1/Bilder/sol\ 1.jpg);
+    /* background:url(../webbutveckling-projekt-1/Bilder/sol\ 1.jpg); */
     position: relative;
-    min-height: 150px;
+    min-height: 300px;
     border-radius: 30%;
 }
 
@@ -91,7 +91,7 @@ p{
     margin:4%;
     height: 200px;
     width: 200px;
-    background:url();
+    /* background:url(../webbutveckling-projekt-1/Bilder/sol\ 2.jpg); */
     position: relative;
     min-height: 150px;
     border-radius: 30%;
@@ -101,7 +101,7 @@ p{
     margin:4%;
     height: 200px;
     width: 200px;
-    background:url();
+    /* background:url(../webbutveckling-projekt-1/Bilder/sol\ 3.jpg); */
     position: relative;
     min-height: 150px;
     border-radius: 30%;
@@ -111,7 +111,7 @@ p{
     margin:4%;
     height: 200px;
     width: 200px;
-    background:url();
+    /* background:url(../webbutveckling-projekt-1/Bilder/sol\ 4.jpg); */
     position: relative;
     min-height: 150px;
     border-radius: 30%;
@@ -121,7 +121,7 @@ p{
     margin:4%;
     height: 200px;
     width: 200px;
-    background:url();
+    /* background:url(../webbutveckling-projekt-1/Bilder/sol\ 5.jpg); */
     position: relative;
     min-height: 150px;
     border-radius: 30%;
@@ -130,7 +130,7 @@ p{
     margin:4%;
     height: 200px;
     width: 200px;
-    background:url();
+    /* background:url(../webbutveckling-projekt-1/Bilder/sol\ 6.jpg); */
     position: relative;
     min-height: 150px;
     border-radius: 30%;
@@ -145,14 +145,18 @@ main a:hover{
 main a{
     margin: 4%;
     width: 220px;
-    padding-bottom: 20px;
-    background-color: white;
+    padding-bottom: 0px;
+
+    /* background-color: white; */
     /* border-radius: 30%; */
 }
 
 /* .content{
-    position: absolute;
-    bottom:-20%;
-    left: 38%
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items:center; 
 } */
 
